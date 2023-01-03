@@ -1,14 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>401 Unauthorized</title>
-</head><body>
-<h1>Unauthorized</h1>
-<p>This server could not verify that you
-are authorized to access the document
-requested.  Either you supplied the wrong
-credentials (e.g., bad password), or your
-browser doesn't understand how to supply
-the credentials required.</p>
-<hr>
-<address>Apache/2.4.7 (Ubuntu) Server at 118.112.190.75 Port 5006</address>
-</body></html>
+--2023-01-03 16:14:09--  http://dqs:*password*@456852%40118.112.190.75:5006/DUST/DailyDUST.gif
+正在解析主机 456852@118.112.190.75 (456852@118.112.190.75)... 失败：未知的名称或服务。
+wget: 无法解析主机地址 “456852@118.112.190.75”
